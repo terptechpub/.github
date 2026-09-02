@@ -1,5 +1,4 @@
-# [<img src="logo-self-publish.png" alt="Self-Publish.ai" width="400" />](https://self-publish.ai/) 
-## Self-Publish.ai
+# [<img src="logo-self-publish.png" alt="Self-Publish.ai" width="200" />](https://self-publish.ai/)Self-Publish.ai
 
 An AI-assisted platform for authors to write, edit, format, and publish books.
 
